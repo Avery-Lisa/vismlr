@@ -1,2 +1,5 @@
 ^vismlr\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+^test_model\.R$
+^olderCode$
